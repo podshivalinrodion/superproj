@@ -1,3 +1,5 @@
 [submodule "libs/subproj"]
-	path = libs/subproj
-	url = https://github.com/podshivalinrodion/subproj.git
+        path = libs/subproj
+        url = https://github.com/podshivalinrodion/subproj-renamde.git
+
+
