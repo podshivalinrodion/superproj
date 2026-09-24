@@ -1,5 +1,3 @@
 [submodule "vendor/subproj"]
-	path = vendor/subproj
+        path = vendor/subproj
         url = https://github.com/podshivalinrodion/subproj-renamed.git
-
-
